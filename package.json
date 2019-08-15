@@ -1,31 +1,17 @@
 {
-  "name": "react",
-  "version": "0.0.0",
-  "private": true,
-  "dependencies": {
-    "jquery": "^3.4.1",
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0"
-  },
+  "name": "@mohamadfeiz/mobile-keyboard",
+  "version": "1.0.0",
+  "description": "mobile keyboard based on javascript",
+  "main": "index.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
-    "react-scripts": "latest"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "keywords": ["keyboard","android","js keyboard","js"],
+  "author": "mohamad sharif feiz",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohammadFeiz/mobileKeyboard.git"
   }
 }
+
