@@ -1,6 +1,6 @@
 {
   "name": "@mohamadfeiz/mobile-keyboard",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "mobile keyboard based on javascript",
   "main": "index.js",
   "scripts": {
